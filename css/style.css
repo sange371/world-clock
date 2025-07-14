@@ -33,7 +33,7 @@ a{
     width:600px;
     border-radius:6px;
     border-bottom: 1px solid rgb(207, 189, 252);
-    height:480px;
+    height:270px;
     display:block;
     margin:80px auto;
     box-shadow: rgb(207, 189, 252);
@@ -48,6 +48,7 @@ select{
     border-radius:5px;
 
 }
+
 .city{
     margin:8px;
     display:flex;
@@ -57,9 +58,7 @@ select{
    
     
 }
-.city:last-child{
-    border:none;
-}
+
 .time small{
     font-size:20px;
     vertical-align: middle;
